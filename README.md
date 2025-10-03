@@ -63,9 +63,9 @@ I actively participate in **security contests** (Sherlock, Cantina, CodeHawks, C
 - Conducting smart contract audits and competitive security reviews  
 - Focused on logic-level flaws and protocol invariants  
 
-**🚀 Soft Finance – CTO** *(Golang, Python, DevOps)* – *2023 – Present*  
+**🚀 Soft Finance – CTO** *(Golang, Python, DevOps)* – *2023 – 2025*  
 - Built a fintech API using **NFC-based withdrawals**  
-- ⚡ One of the first **mobile POS terminals in Nigeria**  
+- ⚡ One of the first **mobile POS terminals in Nigeria  https://www.softway.finance **  
 
 **📊 Join Queue – Backend Developer** *(Golang, GraphQL, DevOps)* – *2023 – 2024*  
 - Built a **queueing system** with payment-based priority access  
