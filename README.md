@@ -7,15 +7,17 @@
 
 ## 👨‍💻 About Me  
 
-I am a **Web3 Security Researcher** with a strong background in **backend engineering and blockchain development**.  
-My current focus is **smart contract auditing, protocol security analysis, and vulnerability research** in decentralized systems.  
+I’m a Web3 Security Researcher with over 5 years of proven experience in backend engineering and blockchain development.  
+My work now focuses on smart contract auditing, protocol security analysis, and vulnerability research.  
 
-I have:  
-- 🕵️‍♂️ 5+ years of combined experience across **backend (Golang, Python, JS)** and **Web3 security**  
-- 🎯 A track record of **discovering high-impact vulnerabilities** in leading DeFi protocols through competitive audits  
-- 🦫 Expertise in **Solidity, Golang, Python, and Rust**, with a passion for breaking down complex logic and uncovering subtle flaws  
+**What I bring:**  
+- 5+ years working with backend stacks (Golang, Python, JavaScript) and blockchain systems  
+- Hands-on experience discovering and reporting high-impact vulnerabilities in DeFi protocols  
+- Strong skills in Solidity, Golang, Python, with growing interest in Rust  
+- Ability to break down complex logic and uncover subtle security flaws  
 
-I’m passionate about contributing to **cutting-edge, security-driven projects** and ensuring protocol safety in adversarial environments.  
+I’m passionate about securing decentralized systems and contributing to projects where security is critical.  
+ 
 
 ---
 
@@ -65,13 +67,13 @@ I actively participate in **security contests** (Sherlock, Cantina, CodeHawks, C
 
 **🚀 Soft Finance – CTO** *(Golang, Python, DevOps)* – *2023 – 2025*  
 - Built a fintech API using **NFC-based withdrawals**  
-- ⚡ One of the first **mobile POS terminals in Nigeria  https://www.softway.finance **  
+- ⚡ One of the first **mobile POS terminals in Nigeria**    https://www.softway.finance 
 
 **📊 Join Queue – Backend Developer** *(Golang, GraphQL, DevOps)* – *2023 – 2024*  
 - Built a **queueing system** with payment-based priority access  
 
 **🧵 InstinctHub – Backend Developer** *(Golang, Python, JS, DevOps)* – *2022 – 2023*  
-- Built APIs for **CRM, EdTech, and marketplace platforms**  
+- Built APIs for **CRM, EdTech, and marketplace platforms** https://instincthub.com/ 
 
 **💳 Teems App – Backend Developer** *(Golang, Python, DevOps)* – *2021 – 2022*  
 - Developed fintech APIs with **virtual cards, interbank transfers, and savings systems**  
