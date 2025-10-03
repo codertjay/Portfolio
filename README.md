@@ -49,9 +49,9 @@ I actively participate in **security contests** (Sherlock, Cantina, CodeHawks, C
 
 ## ⚙️ Technical Skills  
 
-**🛡️ Smart Contract Security:** Solidity, Foundry, Slither, Aderyn, Brownie, Contesting  
+**🛡️ Smart Contract Security:** Solidity, Cosmos, Sui Move Still growing, Solana still growing, Coswasm still growing  
 **💻 Backend Development:** Golang (Gin, Fiber, GraphQL), Python (Django, FastAPI), Node.js  
-**🌐 Blockchain Ecosystems:** Ethereum, Solana, Cosmos, Starknet  
+**🌐 Blockchain Ecosystems:** Ethereum, Solana, Cosmos, Starknet, Sui 
 **🛠️ DevOps & Tools:** Docker, Linux, AWS, GitHub Actions  
 **❤️ Languages I Love:** Golang 🦫, Solidity, Python, Rust  
 
