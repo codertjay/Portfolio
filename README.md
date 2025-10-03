@@ -1,6 +1,8 @@
 # 🔐 Codertjay – Web3 Security Researcher  
 
-[![Linktree](https://img.shields.io/badge/Linktree-codertjay-green)](https://linktr.ee/codertjay)  
+[![Linktree](https://img.shields.io/badge/Linktree-codertjay-green)](https://linktr.ee/codertjay)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-codertjay-blue)](https://www.linkedin.com/in/codertjay/)
+
+
 📧 dev.codertjay@gmail.com  
 
 ---
