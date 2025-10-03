@@ -16,7 +16,8 @@ My work now focuses on smart contract auditing, protocol security analysis, and 
 - 5+ years working with backend stacks (Golang, Python, JavaScript) and blockchain systems  
 - Hands-on experience discovering and reporting high-impact vulnerabilities in DeFi protocols  
 - Strong skills in Solidity, Golang, Python, with growing interest in Rust  
-- Ability to break down complex logic and uncover subtle security flaws  
+- Ability to break down complex logic and uncover subtle security flaws
+- Open to learn anything and adjust 
 
 I’m passionate about securing decentralized systems and contributing to projects where security is critical.  
  
