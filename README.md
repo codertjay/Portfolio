@@ -36,7 +36,7 @@ I actively participate in **security contests** (Sherlock, Cantina, CodeHawks, C
 
 | 📅 Date   | 🛠️ Protocol / Repo          | 🏆 Platform  | 📌 Findings | 🥇 Rank | 🔗 Notes |
 |-----------|------------------------------|--------------|-------------|---------|----------|
-| Jul '18   | Citrea                       | Cantina      | 1           | Not Out | [Audit](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview) |
+| Jul '18   | Citrea                       | Cantina      | 1           | 7th     | [Audit](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview) |
 | Jun '25   | Solaxy                       | Cantina      | 4           | 🥈 2nd  | [Audit](https://cantina.xyz/competitions/50d38b86-80a0-49af-9df8-70d7d601b7d7) |
 | May '25   | Space and Time               | Cantina      | 3           | Not Out | [Audit](https://cantina.xyz/competitions/3cc30b66-1cba-4044-968f-a0817cd7bf83) |
 | May '25   | Alchemix V3                  | Cantina      | 2           | 67th    | [Audit](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a) |
